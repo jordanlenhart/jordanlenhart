@@ -1,13 +1,6 @@
-# 👋 Hi, I'm Jordan Lenhart 
+# Hi, I'm Jordan Lenhart
 
-Welcome to my GitHub profile! I'm a passionate and driven software developer with a background in technological innovation, customer service, and adminstrative leadership.
-
-## 💼 About Me
-
-- 🎯 Currently working as a **Family Services Technician** for the **Orange County Department of Education**, where I serve as community liason for families in need for social services.
-- 💻 Aspiring **full-stack web developer** with experience in modern web technologies and responsive design.
-- 🎓 Currently a fellow of of **The Knowledge House Innovation Fellowship**, where I hone my skills in HTML, CSS, JavaScript, React, and full-stack development.
-- 🏡 Former experienced **Human Resources and Sales Representative**, where I supported employees and clients with professional engagement and development.
+Welcome to my GitHub profile! I'm a passionate and driven software developer with a background in technological innovation, customer and client service, and adminstrative leadership.
 
 ## 🚀 Skills & Tools
 
