@@ -1,6 +1,6 @@
 # Hi, I'm Jordan Lenhart
 
-Welcome to my GitHub profile! I'm a passionate and driven software developer with a background in technological innovation, customer and client service, and adminstrative leadership.
+Welcome to my GitHub profile! I'm a passionate and driven software developer with a background in education services and grants, case management, community engagement, and growing technical/web development skills.
 
 ## 🚀 Skills & Tools
 
@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm a passionate and driven software developer wit
 
 - React
 - Next.js
-- Tailwind CSS
+- TypeScript
+- PostgreSQL
 - UI/UX design principles 
 
 ## 📫 Let's Connect
@@ -21,5 +22,3 @@ Welcome to my GitHub profile! I'm a passionate and driven software developer wit
 - 📧 [Email Me](mailto:jordinholenhart@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jordanlenhart1)
 - 🌐 [Website] In Progress!
-
-Thanks for stopping by!
